@@ -1,5 +1,5 @@
-# SPEM
-The Smart Phone Energy Meter (SPEM) hardware provide a robust energy measurement solution for mobile devices. It can analyze the energy on any device that uses up to a Lithium-Ion Battery. Electrical engineers and software developers can utilize the SPEM hardware to optimize the design and analyze the performance of their mobile devices. For technical details check the related [medium post](https://medium.com/@ahmetozlu93/designing-and-developing-smartphone-power-monitor-hardware-61eb5a3ee0ce). 
+# SPPM
+The Smart Phone Power Monitor (SPPM) hardware provide a robust energy measurement solution for mobile devices. It can analyze the energy on any device that uses up to a Lithium-Ion Battery. Electrical engineers and software developers can utilize the SPPM hardware to optimize the design and analyze the performance of their mobile devices. For technical details check the related [medium post](https://medium.com/@ahmetozlu93/designing-and-developing-smartphone-power-monitor-hardware-61eb5a3ee0ce). 
 
 ## Quick Demo
 <p align="center">
@@ -34,7 +34,7 @@ If you use this code for your publications, please cite it as:
         author = "Ahmet Özlü",
         title  = "Smart Phone Power Monitor",
         year   = "2017",
-        url    = "https://github.com/ahmetozlu/SPEM"
+        url    = "https://github.com/ahmetozlu/SPPM"
     }
 
 ## Author
