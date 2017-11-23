@@ -34,7 +34,7 @@ If you use this code for your publications, please cite it as:
         author = "Ahmet Özlü",
         title  = "Smart Phone Power Monitor",
         year   = "2017",
-        url    = "https://github.com/ahmetozlu/SPPM"
+        url    = "https://github.com/ahmetozlu/sppm"
     }
 
 ## Author
