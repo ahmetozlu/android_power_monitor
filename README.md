@@ -2,9 +2,16 @@
 The Smart Phone Power Monitor (SPPM) hardware provide a robust energy measurement solution for mobile devices. It can analyze the energy on any device that uses up to a Lithium-Ion Battery. Electrical engineers and software developers can utilize the SPPM hardware to optimize the design and analyze the performance of their mobile devices. For technical details check the related [medium post](https://medium.com/@ahmetozlu93/designing-and-developing-smartphone-power-monitor-hardware-61eb5a3ee0ce). 
 
 ## Quick Demo
+*- Smartphone Energy Measurement Hardware (while testing with LG G3 Beat)*
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/22610163/33150104-2e833bbc-cfe3-11e7-9fe1-ac044e8c0ef1.gif">
+  <img src="https://user-images.githubusercontent.com/22610163/33978373-69344cf0-e0b0-11e7-9cf8-e3af3af64915.gif">
 </p>
+
+*- Smartphone Energy Measurement Hardware (while testing with Samsung Galaxy J7)*
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/22610163/33978086-0471949a-e0af-11e7-8111-eb0ff2f964d4.gif">
+</p>
+
 
 ---
 ### Results
