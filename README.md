@@ -1,20 +1,21 @@
-# SPPM
-The Smart Phone Power Monitor (SPPM) hardware provide a robust energy measurement solution for mobile devices. It can analyze the energy on any device that uses up to a Lithium-Ion Battery. Electrical engineers and software developers can utilize the SPPM hardware to optimize the design and analyze the performance of their mobile devices. For technical details check the related [medium post](https://medium.com/@ahmetozlu93/designing-and-developing-smartphone-power-monitor-hardware-61eb5a3ee0ce). 
+# Android Power Monitor
+Android Power Monitor hardware provides a robust energy measurement solution for mobile devices. It can analyze the energy on any device that uses up to a Lithium-Ion Battery. Electrical engineers and software developers can utilize this hardware to optimize the design and analyze the performance of their mobile devices. For technical details check the related [medium post](https://medium.com/@ahmetozlu93/designing-and-developing-smartphone-power-monitor-hardware-61eb5a3ee0ce). 
 
 ## Quick Demo
-*- Smartphone Energy Measurement Hardware (while testing with LG G3 Beat)*
+*- Android Energy Measurement Hardware (while testing with LG G3 Beat)*
 <p align="center">
   <img src="https://user-images.githubusercontent.com/22610163/33978373-69344cf0-e0b0-11e7-9cf8-e3af3af64915.gif">
 </p>
 
-*- Smartphone Energy Measurement Hardware (while testing with Samsung Galaxy J7)*
+*- Android Energy Measurement Hardware (while testing with Samsung Galaxy J7)*
 <p align="center">
   <img src="https://user-images.githubusercontent.com/22610163/33978086-0471949a-e0af-11e7-8111-eb0ff2f964d4.gif">
 </p>
 
+Arduino implementation can be found in [**here (spem.ino)**](https://github.com/ahmetozlu/android_power_monitor/blob/master/spem.ino)!
 
 ---
-### Results
+## ExperiementalResults
 
 One of the experiment scenario;
 - Screen brightness level is minimum.
@@ -39,9 +40,9 @@ If you use this code for your publications, please cite it as:
 
     @ONLINE{vdtc,
         author = "Ahmet Özlü",
-        title  = "Smart Phone Power Monitor",
+        title  = "Android Power Monitor",
         year   = "2017",
-        url    = "https://github.com/ahmetozlu/sppm"
+        url    = "https://github.com/ahmetozlu/android_power_monitor"
     }
 
 ## Author
