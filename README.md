@@ -1,5 +1,5 @@
 # Android Power Monitor
-Android Power Monitor hardware provides a robust energy measurement solution for mobile devices. It can analyze the energy on any device that uses up to a Lithium-Ion Battery. Electrical engineers and software developers can utilize this hardware to optimize the design and analyze the performance of their mobile devices. For technical details check the related [medium post](https://medium.com/@ahmetozlu93/designing-and-developing-smartphone-power-monitor-hardware-61eb5a3ee0ce). 
+Android Power Monitor hardware provides a robust energy measurement solution for mobile devices. It can analyze the energy on any device that uses up to a Lithium-Ion Battery. For the technical details please check the related [medium post](https://medium.com/@ahmetozlu93/designing-and-developing-smartphone-power-monitor-hardware-61eb5a3ee0ce). 
 
 ## Quick Demo
 *- Android Energy Measurement Hardware (while testing with LG G3 Beat)*
