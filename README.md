@@ -12,7 +12,7 @@ Android Power Monitor hardware provides a robust energy measurement solution for
   <img src="https://user-images.githubusercontent.com/22610163/33978086-0471949a-e0af-11e7-8111-eb0ff2f964d4.gif">
 </p>
 
-Arduino implementation can be found in [**here (spem.ino)**](https://github.com/ahmetozlu/android_power_monitor/blob/master/spem.ino)!
+Arduino code is in [**here (spem.ino)**](https://github.com/ahmetozlu/android_power_monitor/blob/master/spem.ino).
 
 ---
 ## ExperiementalResults
